@@ -1,0 +1,58 @@
+body { 
+	
+	font-size: 15px;
+    width:100vw; 
+    height:100vh; 
+	
+	
+	
+}
+
+.encabezado {
+	background-color: red;
+	color: white;
+}
+
+.cuerpo {
+    width:100vw; 
+    height:70vh;
+}
+	
+
+
+
+.pie {
+	background-color: white;
+}
+
+.enlacePiePagina {
+	color: grey;	
+	text-decoration:none;
+	
+}
+
+.enlacePiePagina:hover {
+    color: red;
+}
+
+
+.copyright1 {
+	font-weight: bold;
+	font-size: 12px;
+	color: grey	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

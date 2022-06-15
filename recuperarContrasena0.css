@@ -1,0 +1,174 @@
+body { 
+	background-color: red;
+	color: white;
+	font-size: 15px;
+	
+	
+}
+
+.cuerpo {
+	background-color: white;
+	color: black;
+}
+	
+
+.botonInciarSesion {
+	background-color: white;
+	color: red;	
+	font-weight: bold;	
+}
+
+.pie {
+	background-color: white;
+}
+
+.subtitulo {
+	color: grey;
+	font-size: 15px;
+}
+
+.textoFormulario {
+	font-size: 13px;
+}
+
+.textoFechaGris {
+
+	color: grey;
+}
+
+.textoFecha {
+	color: black;
+}
+
+
+
+
+.botonContinuar  {
+	justify-content: center;
+	width: 100%;
+	color: white;
+	background-color: red;
+	font-weight: bold;	
+}
+
+.fondoBtnCrearCuenta {
+	color: white !important;
+	background-color: #B40404 !important;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    outline: 0 none;
+	
+}
+
+.fondoBtnIniciarSesion {
+	color: red !important;
+	background-color: #D8D8D8 !important;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    outline: 0 none;
+	
+}
+
+.botonIniciarSesion {
+	background-color: white;
+	color: red;	
+	font-weight: bold;	
+}
+
+.fondoBtnIniciarSesion {
+	color: red !important;
+	background-color: #D8D8D8 !important;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    outline: 0 none;
+	
+}
+
+
+
+.bordeInputRojo {
+	border-color: red;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    outline: 0 none;
+}
+
+.bordeInputRojoImportant {
+	border-color: red !important;
+	box-shadow: 0px 0px 5px 1px red  !important;
+    outline: 0 none !important;
+}
+
+.check1 {
+	background-color: white !important;
+	border-color: red !important;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px !important;
+	color: grey !important;
+    outline: 0 none !important;
+}
+
+.check2 {
+	background-color: #fff8f8 !important;
+	border-color: red !important;
+	color: red !important;
+    outline: 0 none !important;
+}
+
+
+
+.Check0 {
+	color: grey;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+
+.copyright1 {
+	font-weight: bold;
+	font-size: 12px;
+	color: grey;
+	
+}
+
+.enlacePiePagina {
+	color: grey;	
+	text-decoration:none;
+	
+}
+
+
+
+.subrayadoYtextoBlanco {
+	color: red !important;
+}
+
+.textoMensajeError {
+	font-size: 13px;
+    color: red;
+}
+
+.textoFormularioError {
+	font-weight: bold;
+	color: red;
+}
+
+
+
+.noVer {
+	display: none;	
+}
+
+.textoNegrita {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
